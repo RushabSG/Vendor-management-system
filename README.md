@@ -4,7 +4,9 @@ This is a Develop a Vendor Management System using Django and Django REST Framew
 
 ## Prerequisites
    Python (version 3.x recommended)
+   
    Django
+   
    Django REST Framework
 
 ## Setup Instructions
