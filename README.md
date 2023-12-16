@@ -119,7 +119,6 @@ This is a Develop a Vendor Management System using Django and Django REST Framew
    Endpoint to get specific Vendors performance Metrics
 
 ## Authentication
-   ``bash
    POST /api/api-token
    Generate User Token by providing Username and Password
 
