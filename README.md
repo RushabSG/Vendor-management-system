@@ -4,32 +4,32 @@ This is a Develop a Vendor Management System using Django and Django REST Framew
 
 ## Setup Instructions
 
-**Clone the Repository:**
+1) **Clone the Repository:**
    ```bash
    git clone https://github.com/RushabSG/Vendor-management-system.git
    
-**Setup the development environment:**
+2) **Setup the development environment:**
    ```bash
    pip install pipenv
    pipenv install 
 
-**Activate the Virtual environment:**
+3) **Activate the Virtual environment:**
    ```bash
    pipenv shell
 
-**Install Dependencies:**
+4) **Install Dependencies:**
    ```bash
    pipenv install --dev
 
-**Run Migrations:**
+5) **Run Migrations:**
    ```bash
    python manage.py migrate
 
-**Create Superuser (Optional):**
+6) **Create Superuser (Optional):**
    ```bash
    python manage.py createsuperuser
 
-**Run Development Server:**
+7) **Run Development Server:**
    ```bash
    python manage.py runserver
 
