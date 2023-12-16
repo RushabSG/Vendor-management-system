@@ -137,3 +137,4 @@ def create_historical_performance(sender, instance, created, **kwargs):
             average_response_time=vendor.average_response_time,
             fulfillment_rate=vendor.fulfillment_rate,
         )
+        
